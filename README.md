@@ -1,0 +1,1 @@
+   *** This repository has been created for functions. Here totally 23 functions are given with separate files***
